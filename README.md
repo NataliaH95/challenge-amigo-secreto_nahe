@@ -26,7 +26,7 @@ También incluye un botón para reiniciar el juego. Este es un proyecto ideal pa
 
 🧪 Demo
 
-(Si lo subes en GitHub Pages o Netlify, puedes poner un enlace aquí)
+https://github.com/NataliaH95/challenge-amigo-secreto_nahe.git
 
 
 📦 Estructura del Proyecto
@@ -44,13 +44,12 @@ En este repositorio en GitHub encontrarás los siguientes archivos:
 
 1. Clona o descarga este repositorio:
 
-```bash
-git clone https://github.com/tuusuario/amigo-secreto.git
+git clone https://github.com/NataliaH95/challenge-amigo-secreto_nahe.git
 
 Abre el archivo index.html en tu navegador:
 
 Copiar código
-cd amigo-secreto
+cd challenge-amigo-secreto_nahe
 start index.html
 Nota: No necesitas instalar nada, ya que es un proyecto 100% en el navegador.
 
